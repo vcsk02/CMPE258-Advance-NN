@@ -1,0 +1,16 @@
+tensorflow>=2.16
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2
+keras-tuner>=1.4
+keras-cv>=0.9
+scikit-learn>=1.4
+pandas>=2.2
+matplotlib>=3.8
+numpy>=1.26
+pillow>=10.2
+opencv-python-headless>=4.10
+nlpaug>=1.1
+wandb>=0.17
+tensorboard>=2.16
+librosa>=0.10

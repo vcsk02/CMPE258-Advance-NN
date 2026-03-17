@@ -1,0 +1,24 @@
+CMPE258-Advance-NN/
+  .gitignore
+  README.md
+  requirements.txt
+  part1/
+    01_tensorflow_regularization_abtests.ipynb
+    02_pytorch_regularization_abtests.ipynb
+    03_keras_tuner_and_keras_cv.ipynb
+    04_image_video_text_augmentation.ipynb
+    05_timeseries_tabular_speech_document_augmentation.ipynb
+  part2/
+    06_advanced_keras_custom_objects.ipynb
+    07_advanced_pytorch_constructs.ipynb
+    08_wandb_experiment_tracking.ipynb
+  video_scripts/
+    01_tensorflow_regularization_abtests.md
+    02_pytorch_regularization_abtests.md
+    03_keras_tuner_and_keras_cv.md
+    04_image_video_text_augmentation.md
+    05_timeseries_tabular_speech_document_augmentation.md
+    06_advanced_keras_custom_objects.md
+    07_advanced_pytorch_constructs.md
+    08_wandb_experiment_tracking.md
+  assets/

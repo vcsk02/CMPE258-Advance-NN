@@ -12,6 +12,7 @@ The design goals for this repo were simple:
 - keep the repo clean enough that a grader can find things without archaeological tools
 
 ---
+Video Link: https://youtu.be/8SI3iCYUMzg
 
 ## Repository layout
 

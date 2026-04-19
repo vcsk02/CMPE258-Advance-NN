@@ -30,16 +30,7 @@ CMPE258-Advance-NN/
 │   ├── 06_advanced_keras_custom_objects.ipynb
 │   ├── 07_advanced_pytorch_constructs.ipynb
 │   └── 08_wandb_experiment_tracking.ipynb
-└── video_scripts/
-    ├── 01_tensorflow_regularization_abtests.md
-    ├── 02_pytorch_regularization_abtests.md
-    ├── 03_keras_tuner_and_keras_cv.md
-    ├── 04_image_video_text_augmentation.md
-    ├── 05_timeseries_tabular_speech_document_augmentation.md
-    ├── 06_advanced_keras_custom_objects.md
-    ├── 07_advanced_pytorch_constructs.md
-    └── 08_wandb_experiment_tracking.md
-```
+
 
 ---
 
@@ -199,25 +190,6 @@ cd CMPE258-Advance-NN
 git add .
 git commit -m "Add multi-colab advanced neural network assignment"
 git push origin main
-```
-
----
-
-## Suggested README additions after you record videos
-
-After uploading your videos, add a section like this near the top of the README:
-
-```md
-## Video Walkthroughs
-
-- Notebook 1 walkthrough: <YouTube or Drive link>
-- Notebook 2 walkthrough: <YouTube or Drive link>
-- Notebook 3 walkthrough: <YouTube or Drive link>
-- Notebook 4 walkthrough: <YouTube or Drive link>
-- Notebook 5 walkthrough: <YouTube or Drive link>
-- Notebook 6 walkthrough: <YouTube or Drive link>
-- Notebook 7 walkthrough: <YouTube or Drive link>
-- Notebook 8 walkthrough: <YouTube or Drive link>
 ```
 
 ---
